@@ -14,6 +14,13 @@
     "name": "Jay Rylan",
     "url": "http://jayrylan.com/"
   },
+  "keywords": [
+    "http",
+    "status",
+    "code",
+    "enum",
+    "typescript"
+  ],
   "scripts": {
     "api-check": "npm run build && api-extractor run",
     "build": "pack build",
